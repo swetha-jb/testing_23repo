@@ -1,0 +1,10 @@
+<testsuites id="" name="" tests="3" failures="0" skipped="0" errors="0" time="15.60971">
+<testsuite name="src/tests/TestFile.test.ts" timestamp="2025-07-18T12:09:54.098Z" hostname="" tests="3" failures="0" skipped="0" time="11.424" errors="0">
+<testcase name="Click_on_login" classname="src/tests/TestFile.test.ts" time="5.342">
+</testcase>
+<testcase name="enter number" classname="src/tests/TestFile.test.ts" time="3.041">
+</testcase>
+<testcase name="Click_on_rqst" classname="src/tests/TestFile.test.ts" time="3.041">
+</testcase>
+</testsuite>
+</testsuites>
